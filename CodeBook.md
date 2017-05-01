@@ -2,7 +2,7 @@ Code Book
 
 id 
   id number of the subject
-  01..30
+  01...30
   
 activity
   label of the activity
